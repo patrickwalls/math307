@@ -4,7 +4,7 @@
 
 * Linear systems of equations: LU and Cholesky decompositions and conditioning
 * Least squares approximation: normal equations, QR decomposition and orthogonalization
-* Eigenvalue problems: spectral theorem, singular value decomposition eigenvalue algorithms
+* Eigenvalue problems: spectral theorem, singular value decomposition and eigenvalue algorithms
 * Digital signal processing: discrete Fourier transform, fast Fourier transform and the convolution theorem
 * Applications: interpolation, finite difference method, data fitting, computed tomography, image processing, signal processing, network analysis, PageRank and more
 
