@@ -11,3 +11,6 @@
 | Notebook | Topics |
 | :---: | :---: |
 | [01_linear_systems](01_linear_systems.ipynb) | Linear systems of equations |
+| [02_LU_decomposition](02_LU_decomposition.ipynb) | LU decomposition |
+| [03_polynomial_interpolation](01_polynomial_interpolation.ipynb) | Polynomial interpolation |
+| [04_spline_interpolation](04_spline_interpolation.ipynb) | Cubic spline interpolation |
