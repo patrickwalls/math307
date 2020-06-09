@@ -15,3 +15,7 @@
 | [03_polynomial_interpolation](01_polynomial_interpolation.ipynb) | Polynomial interpolation |
 | [04_spline_interpolation](04_spline_interpolation.ipynb) | Cubic spline interpolation |
 | [05_finite_difference_method](05_finite_difference_method.ipynb) | Finite difference method |
+| [06_least_squares_regression](06_least_squares_regression.ipynb) | Least squares regression |
+| [07_computed_tomography](07_computed_tomography.ipynb) | Computed tomography |
+| [08_computing_eigenvalues](08_computing_eigenvalues.ipynb) | Computing eigenvalues |
+| [09_pca](09_pca.ipynb) | Principal component analysis |
