@@ -19,3 +19,4 @@
 | [07_computed_tomography](07_computed_tomography.ipynb) | Computed tomography |
 | [08_computing_eigenvalues](08_computing_eigenvalues.ipynb) | Computing eigenvalues |
 | [09_pca](09_pca.ipynb) | Principal component analysis |
+| [10_deblurring_images](10_deblurring_images.ipynb) | Deblurring images |
