@@ -20,3 +20,4 @@
 | [08_computing_eigenvalues](08_computing_eigenvalues.ipynb) | Computing eigenvalues |
 | [09_pca](09_pca.ipynb) | Principal component analysis |
 | [10_deblurring_images](10_deblurring_images.ipynb) | Deblurring images |
+| [11_pagerank](11_pagerank.ipynb) | PageRank |
